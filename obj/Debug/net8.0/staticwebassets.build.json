@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6Y5IAwYtdvLAVKKAlSIj2ziLg8dTXQsbwmQTaufQiQ0=",
+  "Source": "SalesDataProcessor",
+  "BasePath": "_content/SalesDataProcessor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
